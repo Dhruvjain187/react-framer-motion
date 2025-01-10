@@ -1,9 +1,10 @@
-import BasicsOfMotion from "./components/BasicsOfMotion"
-
+// import BasicsOfMotion from "./components/BasicsOfMotion"
+import Gesture from "./components/Gesture"
 function App() {
   return (
     <>
-      <BasicsOfMotion />
+      {/* <BasicsOfMotion /> */}
+      <Gesture />
     </>
   )
 }
